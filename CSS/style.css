@@ -1,0 +1,11 @@
+header{
+    background-color: navy;
+    text-align:center;
+}
+h1{
+    color:orangered;
+    text-border: solid white 1px;
+}
+p{
+    color: white;
+}
